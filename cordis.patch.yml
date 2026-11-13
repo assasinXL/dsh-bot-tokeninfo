@@ -1,0 +1,4 @@
+- insert:
+    - id: bot-tokeninfo
+      name: 'dsh-bot-tokeninfo'
+      config: {}
